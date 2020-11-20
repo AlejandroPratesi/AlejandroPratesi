@@ -8,5 +8,7 @@
 - 🌱 I'm currently updating on Angular,Node,Mongo,Firebase 
 
 - 💬 
-[Linkedin alejandropratesi](https://www.linkedin.com/in/alejandropratesi/)
+[Linkedin Alejandro Pratesi](https://www.linkedin.com/in/alejandropratesi/)
+
+
 
