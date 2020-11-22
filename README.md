@@ -11,5 +11,3 @@
 [Linkedin Alejandro Pratesi](https://www.linkedin.com/in/alejandropratesi/)
 
 
-
-(https://octodex.github.com/images/yaktocat.png)
