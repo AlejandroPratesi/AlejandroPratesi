@@ -10,8 +10,6 @@
 - 💬 
 [Linkedin Alejandro Pratesi](https://www.linkedin.com/in/alejandropratesi/)
 
-Imagen
-! [Imagen de Yaktocat] (https://octodex.github.com/images/yaktocat.png)
 
 
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
