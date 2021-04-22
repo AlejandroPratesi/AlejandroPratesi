@@ -5,7 +5,21 @@
 ###  Im Alejandro  👋  I'm a Developer . I'm from BsAs 🇦🇷.
 ###  I'm studying at UTN and Udemy.
 
-- 🔭 Developer Net.
+- :earth_americas: Developer Net.
+
+- :wrench: .NET C# HTML CSS BOOTSTRAP 4 JAVASCRIPT ANGULAR 10 Api Rest
+
+- ⚙️ IONIC / XAMARIN
+
+- :iphone: Responsive web
+
+- :package: Base de datos Sql, MySql, 
+
+- ☁️ Cloud Firestone, Firebase realtime database 
+
+- 💡 Firebase Authentication, hosting, storage
+
+- 🚦 Sistema de control de versiones Team foundation server y Github
 
 - 🌱 I'm currently updating on Angular,Node,Mongo,Firebase 
 
