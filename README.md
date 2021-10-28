@@ -29,8 +29,8 @@
 
 - Sitios [Netlify Team Alejandro Pratesi](https://app.netlify.com/teams/alejandropratesi/overview) 
 
-[Proyecto Buena Sonrisa](https://segundoparciallab4.firebaseapp.com/login/)
+- [Proyecto Buena Sonrisa](https://segundoparciallab4.firebaseapp.com/login/)
 
-[Proyecto Profile](https://alejandropratesi.github.io/resume/)
+- [Proyecto Profile](https://alejandropratesi.github.io/resume/)
 
 
