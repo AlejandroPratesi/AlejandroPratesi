@@ -31,6 +31,6 @@
 
 [Proyecto Buena Sonrisa](https://segundoparciallab4.firebaseapp.com/login/)
 
-[Proyecto Buena Sonrisa](https://alejandropratesi.github.io/resume/)
+[Proyecto Profile](https://alejandropratesi.github.io/resume/)
 
 
